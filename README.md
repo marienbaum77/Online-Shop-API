@@ -1,4 +1,4 @@
-# 🛍 Online Shop API
+# Online Shop API
 
 REST API интернет-магазина на Django + Django REST Framework. Реализованы
 регистрация и авторизация пользователей (JWT), личный баланс, каталог
